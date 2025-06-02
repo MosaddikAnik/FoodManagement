@@ -1,0 +1,87 @@
+Customer Name: Anik
+Customer ID: 2
+New Cart Session:
+BBQ Juicy Chicken - $150 (x1)
+Total: $150.0
+----------
+Customer Name: anik
+Customer ID: 2
+New Cart Session:
+BBQ Juicy Chicken - $150 (x1)
+Total: $150.0
+----------
+Customer Name: Anik
+Customer ID: 6
+New Cart Session:
+Fried Chicken - $150 (x1)
+Total: $150.0
+----------
+Customer Name: Anik
+Customer ID: 7
+New Cart Session:
+Crispy Chicken Burger - Large - $250 (x1)
+Total: $250.0
+----------
+Customer Name: Anik
+Customer ID: 4
+New Cart Session:
+Fried Chicken - $150 (x1)
+Total: $150.0
+----------
+Customer Name: Anik
+Customer ID: 6
+New Cart Session:
+Fried Chicken - $150 (x1)
+Total: $150.0
+----------
+Customer Name: Anik
+Customer ID: 8
+New Cart Session:
+Crispy Chicken Burger - Large - $250 (x1)
+BBQ Juicy Chicken - $150 (x1)
+Total: $400.0
+----------
+Customer Name: Anik
+Customer ID: 10
+New Cart Session:
+Fried Chicken - $150 (x1)
+Total: $150.0
+----------
+Customer Name: Anik
+Customer ID: 0
+New Cart Session:
+BBQ Juicy Chicken - $150 (x1)
+Total: $150.0
+----------
+Customer Name: m
+Customer ID: 9
+New Cart Session:
+BBQ Juicy Chicken - $150 (x1)
+Total: $150.0
+----------
+Customer Name: Anik
+Customer ID: 7
+New Cart Session:
+Fried Chicken - $150 (x1)
+Total: $150.0
+----------
+Customer Name: Ayon
+Customer ID: 2
+New Cart Session:
+Crispy Chicken Burger - Large - $250 (x1)
+Total: $250.0
+----------
+Customer Name: Ayon
+Customer ID: 2
+New Cart Session:
+Crispy Chicken Burger - Large - $250 (x1)
+Fried Chicken - $150 (x1)
+Total: $400.0
+----------
+Customer Name: Ayon
+Customer ID: 2
+New Cart Session:
+Crispy Chicken Burger - Large - $250 (x1)
+Fried Chicken - $150 (x2)
+Total: $550.0
+----------
